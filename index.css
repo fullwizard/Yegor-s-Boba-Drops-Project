@@ -1,0 +1,8 @@
+ h1 {
+    font-family: handwriting;
+    color: blue;
+  }
+  .border {
+    border: 5px solid rgb(255, 0, 0);
+    border-radius: 30px;
+  }
